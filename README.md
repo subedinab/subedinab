@@ -1,7 +1,7 @@
 <!-- ![Banner](Banner.png) -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://manish-chhetri.netlify.app/">Manish Chhetri</a></h1>
-<h3>I am a <b> Back end developer </b> who loves coding and build productive sites</h3>
+<h1 align="center">Hi 👋, I'm </">Nabaraj Subedi</a></h1>
+<h3>I am a <b> Back end developer </b> who loves coding and learning AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedinab&label=Profile%20views&color=0e75b6&style=flat" alt="nabaraj subedi" /> </p>
 
