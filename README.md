@@ -1,13 +1,13 @@
 <!-- ![Banner](Banner.png) -->
 
 <h1 align="center">Hi 👋, I'm </">Nabaraj Subedi</a></h1>
-<h3>I am a <b> Back end developer </b> who loves coding and learning AI</h3>
+<h3>I am a <b> Aspiring ML Engineer </b> who loves coding and learning AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedinab&label=Profile%20views&color=0e75b6&style=flat" alt="nabaraj subedi" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Deep learning and MLOPS**
 
-- 🌱 I’m currently learning **Nodejs and React** ,**Machine learning and deep learning**
+- 🌱 I’m currently learning **Machine learning and deep learning**,**Nodejs** 
 
 - 📫 How to reach me [Facebook](https://www.facebook.com/nabaraj.subedi.925602) |
   [Instagram](https://www.instagram.com/nabsub12/) |
