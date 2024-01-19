@@ -25,4 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subedinab)](https://github.com/anuraghazra/github-readme-stats)
 
-![Chhetri123's GitHub stats](https://github-readme-stats.vercel.app/api?username=subedinab&show_icons=true&theme=omni)
+![subedinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=subedinab&show_icons=true&theme=omni)
