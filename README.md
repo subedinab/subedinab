@@ -16,12 +16,12 @@
 
 - ⚡ Fun fact **I want to learn how machine works**
   
-- 😜 NickName : **Nabs**
+- 😜 NickName : **Nabaraj**
 
 - 😄 Pronouns:(he/him)
 
 
-[![Manish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=subedinab&theme=vue)](https://github.com/subedinab)
+[![Nabaraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=subedinab&theme=vue)](https://github.com/subedinab)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subedinab)](https://github.com/anuraghazra/github-readme-stats)
 
